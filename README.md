@@ -5,8 +5,8 @@ This Laravel application is designed to handles event creation, ticket booking, 
 ## Features
 
 - **Event creation**
-- **ticket booking**
-- **seat availability management**
+- **Ticket booking**
+- **Seat availability management**
 
 ## Prerequisites
 
